@@ -1,0 +1,36 @@
+Data-source
+
+
+-------------------------
+I. Benchmark datasets.
+
+1. Iris
+Link: https://archive.ics.uci.edu/dataset/53/iris
+Notes: There are two duplicated samples. (Line 102 and Line 143)
+
+2. Ecoli
+Link: https://archive.ics.uci.edu/dataset/39/ecoli
+
+3. Breast Tissue
+Link: https://www.kaggle.com/datasets/tarktunataalt/breast-tissue-impedance-measurements
+
+4. HCV
+Link: https://archive.ics.uci.edu/dataset/571/hcv+data
+
+5. Wine
+Link: https://archive.ics.uci.edu/dataset/109/wine
+
+6. Lymphography
+Link: https://archive.ics.uci.edu/dataset/63/lymphography
+
+7. Libras Movement
+Link: https://archive.ics.uci.edu/dataset/181/libras+movement
+
+8. Cancer
+The breast cancer data pre-processed in https://zenodo.org/records/4620218#.YGx9jxNKiX0.
+
+-------------------------
+II. TCGA breast cancer dataset
+
+The TCGA-BRCA data is available on the NIH GDC data portal.
+https://portal.gdc.cancer.gov/projects/TCGA-BRCA
