@@ -3,4 +3,4 @@ Convex clustering with generalized Moreau envelope
 
 #-----------------------------------------
 
-1. Benchmark-data-source.txt (Sources of the benchmark ata sets used in the paper)
+1. Data-source.txt (Sources of the benchmark and TCGA datasets used in the paper)
